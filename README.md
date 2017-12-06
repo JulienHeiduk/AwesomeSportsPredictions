@@ -11,3 +11,6 @@ Just selected SQLITE and configure the path: /home/Database/Sports_Results.db
 
 # Throne.ai & Datascience
 https://www.throne.ai/
+
+# Scripts
+db_sports_v2.py: Script to collect the tables by the API https://api.football-data.org/index
